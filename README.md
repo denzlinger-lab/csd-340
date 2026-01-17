@@ -1,4 +1,6 @@
 <h1>CSD 340 Web Development with HTML and CSS</h1>
 <h2>Contributors: <br>
-  * Abram Denzinger <br>
-  * Christine Mazhata</h2>
+ <ul>
+  <li>Abram Denzlinger</li>
+  <li>Christine Mazhata</li>
+</h2>
