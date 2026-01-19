@@ -1,0 +1,44 @@
+.container {
+    margin: 50px 100px 0 100px;
+}
+
+h1 {
+    background-color: #b3d4fc;
+    color: brown;
+    border: #D6A800 1px solid;
+    padding: 10px;
+}
+
+h2 {
+    background-color: #b3d4fc;
+    color: brown;
+    border: #D6A800 1px solid;
+    padding: 10px;
+}
+
+h3 {
+    background-color: #b3d4fc;
+    color: brown;
+    border: #D6A800 1px solid;
+    padding: 10px;
+}
+
+h4 {
+    background-color: #b3d4fc;
+    color: brown;
+    border: #D6A800 1px solid;
+    padding: 10px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #4f3674;
+}
+
+a:hover {
+    color: brown;
+}
